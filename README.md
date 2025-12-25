@@ -63,3 +63,6 @@ Preserving the freedom of expression.
 ## ゲームや動画に最適
 Ideal for games, videos, and other creative works.
 
+
+HOW TO CREATE AND USE MOVIE WILL BE UPDATED VERY SOON, PLEASE WAIT FOR A MOMENT.
+
