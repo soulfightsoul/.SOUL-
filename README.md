@@ -20,8 +20,6 @@
 
 .SOUL is a new file extension that combines transparent animation and sound.
 
-English
-
 The ".SOUL" file extension is a new type of format that integrates transparent animations with MP3 sound into a single file.
 The extension combines PNG’s transparency with sound synchronization, creating a unique and powerful way to express both visual and auditory elements in one file.
 This makes it ideal for use in games, videos, and animation production.
@@ -33,7 +31,7 @@ Designed to preserve freedom of expression, the .SOUL extension helps creators i
 
 [![SOUL Demo](https://img.youtube.com/vi/x4JFhXMx_hE/0.jpg)](https://www.youtube.com/watch?v=x4JFhXMx_hE)
 
-Français
+## FRANCAIS
 
 L'extension ".SOUL" est un nouveau format qui intègre des animations transparentes avec du son MP3 dans un seul fichier.
 L'extension combine la transparence du PNG avec la synchronisation du son, créant ainsi une manière unique et puissante d'exprimer à la fois des éléments visuels et sonores dans un même fichier. 
@@ -44,23 +42,23 @@ Cela permettra aux créateurs d'utiliser les fichiers .SOUL de manière efficace
 Conçue pour préserver la liberté d'expression, l'extension .SOUL aide les créateurs à insuffler de l'« âme » à leurs œuvres et à élargir leurs possibilités créatives.
 
 
+
 <img width="180" height="400" alt="SOULBONDSOUL_GIRL" src="https://github.com/user-attachments/assets/9230e301-0208-4c4c-809a-919eafde5ba5" />
 
+## 特徴 / Features / Caractéristiques
 
-特徴 / Features / Caractéristiques
-
-透過アニメーションとMP3音声の統合
+## 透過アニメーションとMP3音声の統合
 Transparent animations with MP3 sound integration.
 
-PNGとMP3のコラージュ
+## PNGとMP3のコラージュ
 A unique blend of PNG transparency and MP3 sound.
 
-ゲームエンジン（Unity、UE4など）、映像編集ツール（Premiere Pro、After Effects）に対応予定
+## ゲームエンジン（Unity、UE4など）、映像編集ツール（Premiere Pro、After Effects）に対応予定
 Future support for game engines (Unity, UE4,GameMaker, RPG MAKER, GODOT,Pygame) and video editing tools (Premiere Pro, After Effects).
 
-表現の自由を守る
+## 表現の自由を守る
 Preserving the freedom of expression.
 
-ゲームや動画に最適
+## ゲームや動画に最適
 Ideal for games, videos, and other creative works.
 
