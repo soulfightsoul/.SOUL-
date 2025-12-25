@@ -1,5 +1,6 @@
+## 🎬 How to CREATE and USE .SOUL
 
-<img width="180" height="400" alt="SOULBONDSOUL_GIRL" src="https://github.com/user-attachments/assets/9230e301-0208-4c4c-809a-919eafde5ba5" />
+[![SOUL Demo](https://img.youtube.com/vi/x4JFhXMx_hE/0.jpg)](https://www.youtube.com/watch?v=x4JFhXMx_hE)
 
 ## ▶.SOUL files
 
@@ -14,11 +15,10 @@
 この拡張子は、クリエイターが自由に表現できる場を提供するために開発され、皆さんの創造性を広げる手助けをすることを目指しています。
 表現の自由を守りつつ、「魂」を込めた作品を作り上げるための手段として、ぜひ活用してください。
 
-# SOUL Extension
+# .SOUL Extension
 
-## 🎬 How to use .SOUL
 
-[![SOUL Demo](https://img.youtube.com/vi/x4JFhXMx_hE/0.jpg)](https://www.youtube.com/watch?v=x4JFhXMx_hE)
+<img width="180" height="400" alt="SOULBONDSOUL_GIRL" src="https://github.com/user-attachments/assets/9230e301-0208-4c4c-809a-919eafde5ba5" />
 
 ## About
 
