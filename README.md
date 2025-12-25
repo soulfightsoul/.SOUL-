@@ -1,9 +1,6 @@
-## 🎬 How to CREATE and USE .SOUL
-
-[![SOUL Demo](https://img.youtube.com/vi/x4JFhXMx_hE/0.jpg)](https://www.youtube.com/watch?v=x4JFhXMx_hE)
+<img width="700" height="759" alt="SOULSEARCHSOUL_ANIMATED" src="https://github.com/user-attachments/assets/48ac0b4c-3506-4bfe-9625-3e2ddb640558" />
 
 ## ▶.SOUL files
-
 -----------------------------------------------------------------------------------------------------------------------
 
 .SOULは、透過アニメーションと音声（MP3）を一つのファイルとして統合した新しいタイプのファイル形式です。
@@ -32,6 +29,10 @@ This makes it ideal for use in games, videos, and animation production.
 Launched on December 25, 2025, .SOUL currently works only in a custom browser, but it will soon be supported by all major game engines such as Unity and UE4, 
 as well as video editing tools like Premiere Pro and After Effects. This will allow creators to efficiently use .SOUL files in their game development and video production workflows.
 Designed to preserve freedom of expression, the .SOUL extension helps creators infuse their works with "soul" and enables them to expand their creative possibilities.
+
+## 🎬 How to CREATE and USE .SOUL
+
+[![SOUL Demo](https://img.youtube.com/vi/x4JFhXMx_hE/0.jpg)](https://www.youtube.com/watch?v=x4JFhXMx_hE)
 
 Français
 
