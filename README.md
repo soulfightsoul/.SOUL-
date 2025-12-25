@@ -1,7 +1,6 @@
 
+<img width="406" height="903" alt="REALGIRL_RECREATED_FROM_JPEG" src="https://github.com/user-attachments/assets/6b6c0681-450a-49a2-949d-b84a2e271f68" />
 
-
-![Uploading REALGIRL_RECREATED_FROM_JPEG.png…]()
 
 ## ▶.SOUL files
 
